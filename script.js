@@ -10,10 +10,10 @@
     if(insertArrY.includes(7))/* I put a condition if the array is including number 7  it will excute the statement of returning  string Boom */
     
     {
-		return "Boom!";
+		return "Boom";
 	}else{
         /* but if it dosent include number 7 it will retrun string statment */
-		return "there is no 7 in the array";
+		return "There is No 7 in the Array";
 	}
 }
 
